@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "Channel Island Nomad",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Notes from my travelels around the Channel Islands",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "The Channel Island Nomad",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
